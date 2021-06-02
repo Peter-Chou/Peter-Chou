@@ -1,5 +1,5 @@
 
-### Focusing on Recommender System & Nature Language Processing :vulcan_salute:
+### Focusing on Recommender System & Natural Language Processing :vulcan_salute:
 
 ### Languages:
 
