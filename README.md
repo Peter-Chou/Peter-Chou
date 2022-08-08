@@ -1,5 +1,5 @@
 
-### Focusing on Recommender System & Natural Language Processing.
+### Focusing on Natural Language Processing & Recommender System.
 
 ### Languages:
 
