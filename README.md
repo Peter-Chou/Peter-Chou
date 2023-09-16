@@ -1,5 +1,5 @@
 
-### Focusing on Natural Language Processing & Recommender System & Knowledge Graph.
+### Focusing on Natural Language Processing & Knowledge Graph & Recommender System.
 
 ### Languages:
 
